@@ -1,2 +1,2 @@
 # git-github
-This is only for leaarn.
+This is only for learn.
